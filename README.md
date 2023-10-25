@@ -4,7 +4,7 @@
 [![GitHub release](https://img.shields.io/github/release/Charlio99/ESPesh.svg)](https://GitHub.com/Charlio99/ESPesh/releases/)
 [![GitHub contributors](https://img.shields.io/github/contributors/Charlio99/ESPesh.svg)](https://GitHub.com/Charlio99/ESPesh/graphs/contributors/)
 
-![ESPesh](Images/ESPeshTop.png)
+![ESPesh](ESPeshTop.png)
 
 # Open Hardware ESP32
 
@@ -15,3 +15,7 @@
 # esp32-c3
 [![](esp32-c3.png)]([[https://github.com/ketszim97/ESP32_S2_INK](https://github.com/frycaktadeas/esp32-c3)](https://github.com/frycaktadeas/esp32-c3))
 [https://github.com/ketszim97/ESP32_S2_INK](https://github.com/frycaktadeas/esp32-c3)
+
+# ESPesh
+[![ESPesh](ESPeshTop.png)](https://github.com/Charlio99/ESPesh)
+[https://github.com/Charlio99/ESPesh](https://github.com/Charlio99/ESPesh)
